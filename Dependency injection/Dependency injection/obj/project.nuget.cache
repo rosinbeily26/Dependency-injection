@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JawXlLherkDBVhC0TWmtiOQX8/ApBH/HhYj/mCgPFu7mHr2VKa/j7uWQM63XMlwjIfSfx8tXw1CbtcX58Gf33A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c606213\\source\\repos\\Dependency injection\\Dependency injection\\Dependency injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c606213\\.nuget\\packages\\awssdk.core\\3.7.303.12\\awssdk.core.3.7.303.12.nupkg.sha512",
+    "C:\\Users\\c606213\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.302.13\\awssdk.dynamodbv2.3.7.302.13.nupkg.sha512"
+  ],
+  "logs": []
+}
